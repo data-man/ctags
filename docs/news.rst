@@ -58,6 +58,7 @@ The following parsers have been added:
 * man page *optlib*
 * Maven2 *libxml*
 * M4
+* Nim
 * ObjectiveC
 * passwd
 * puppetManifest *optlib*

@@ -185,6 +185,7 @@ PARSER_SRCS =				\
 	parsers/make.c			\
 	parsers/matlab.c		\
 	parsers/myrddin.c		\
+	parsers/nim.c			\
 	parsers/objc.c			\
 	parsers/ocaml.c			\
 	parsers/pascal.c		\

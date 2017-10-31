@@ -82,6 +82,7 @@
 	MakefileParser, \
 	MatLabParser, \
 	MyrddinParser, \
+	NimParser, \
 	ObjcParser, \
 	OldCppParser, \
 	OldCParser, \
